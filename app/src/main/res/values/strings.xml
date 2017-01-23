@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">红包计划</string>
+    <string name="btn_startservice">开启服务</string>
+</resources>
